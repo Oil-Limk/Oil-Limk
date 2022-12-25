@@ -53,22 +53,22 @@ h1 {
 h2,h3,h4,h5,h6 {
     text-decoration: underline;
   }
-a:link {
+a custom:link {
     color: lightblue;
     background-color: transparent;
     text-decoration: none;
   }
-a:visited {
+a custom:visited {
     color: violet;
     background-color: transparent;
     text-decoration: none;
   }
-a:hover {
+a custom:hover {
     color: fuchsia;
     background-color: transparent;
     text-decoration: none;
   }
-a:active {
+a custom:active {
     color: red;
     background-color: transparent;
     text-decoration: none;
