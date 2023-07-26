@@ -3,6 +3,7 @@
 # hi, I'm Oil Limk
 I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
 
+<a class="but" href="https://oil-limk.github.io/Oil-Limk/" title="website">website</a>
 [website](https://oil-limk.github.io/Oil-Limk/)
 [linkedin](https://www.linkedin.com/in/oil-limk/)
 [twitter](https://twitter.com/OilLimk)
