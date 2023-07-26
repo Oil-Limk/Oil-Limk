@@ -4,7 +4,7 @@
 I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
 
 ## Skills
-<a href="#" title="python">
+<a href="" title="python">
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#" title="java">
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
