@@ -20,9 +20,10 @@ I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
  - toki pona
  - Deutsch
  - Esperanto
+<!--
  - Русская
  - 日本語
-
+-->
 ## Find Me On
 <a href="https://oil-limk.github.io/Oil-Limk/" title="my website">
   <img alt="my website" src="https://img.shields.io/badge/My_Website-F00090?style=for-the-badge"></a>
