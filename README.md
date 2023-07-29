@@ -1,8 +1,4 @@
 # Hi, I'm Oil Limk
-
-## Projects
-I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
-
 ## Skills
 <a href="#" title="python">
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -33,6 +29,7 @@ I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
  - Русская
  - 日本語
 -->
+
 ## Find Me On
 <a href="https://oil-limk.github.io/Oil-Limk/" title="my website">
   <img alt="my website" src="https://img.shields.io/badge/My_Website-F00090?style=for-the-badge"></a>
@@ -44,3 +41,13 @@ I’m currently working on [conlangs](https://oil-limk.github.io/Conlangs/)
   <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://oillimk.bandcamp.com/" title="bandcamp">
   <img alt="bandcamp" src="https://img.shields.io/badge/Bandcamp-1DA0C3?style=for-the-badge&logo=bandcamp&logoColor=white"></a>
+
+## Projects
+<a href="https://github.com/Oil-Limk/Conlangs/" title="conlangs">
+  <img alt="conlangs" src="https://img.shields.io/badge/Conlangs-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<!---
+<a href="https://github.com/Oil-Limk/DiaboloSimulator" title="diabolo simulator">
+  <img alt="diabolo simulator" src="https://img.shields.io/badge/Diabolo_Simulator-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Oil-Limk/MusicBox" title="music box">
+  <img alt="music box" src="https://img.shields.io/badge/Music_Box-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+-->
