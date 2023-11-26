@@ -1,5 +1,7 @@
 # Hi, I'm Oil Limk
+
 ## Skills
+
 <a href="#" title="python">
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#" title="racket">
@@ -22,6 +24,7 @@
   <img alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 
 ## Languages
+
  - Español (native)
  - English
  - toki pona
@@ -33,6 +36,7 @@
 -->
 
 ## Find Me On
+
 <a href="https://oil-limk.github.io/Oil-Limk/" title="my website">
   <img alt="my website" src="https://img.shields.io/badge/My_Website-F00090?style=for-the-badge"></a>
 <a href="https://github.com/Oil-Limk" title="github">
@@ -45,8 +49,11 @@
   <img alt="bandcamp" src="https://img.shields.io/badge/Bandcamp-1DA0C3?style=for-the-badge&logo=bandcamp&logoColor=white"></a>
 
 ## Projects
-<a href="https://github.com/Oil-Limk/Conlangs/" title="conlangs">
+
+<a href="https://github.com/Oil-Limk/Conlangs/" title="Conlangs">
   <img alt="conlangs" src="https://img.shields.io/badge/Conlangs-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Oil-Limk/PokeWaze/" title="PokeWaze">
+  <img alt="pokewaze" src="https://img.shields.io/badge/PokeWaze-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <!---
 <a href="https://github.com/Oil-Limk/DiaboloSimulator" title="diabolo simulator">
   <img alt="diabolo simulator" src="https://img.shields.io/badge/Diabolo_Simulator-100000?style=for-the-badge&logo=github&logoColor=white"></a>
