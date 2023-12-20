@@ -6,6 +6,8 @@
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#" title="racket">
   <img alt="racket" src="https://img.shields.io/badge/Racket-A0171A?style=for-the-badge&logo=racket&logoColor=white"></a>
+<a href="#" title="haskell">
+  <img alt="haskell" src="https://img.shields.io/badge/Haskell-43385F?style=for-the-badge&logo=haskell&logoColor=white"></a>
 <a href="#" title="java">
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="#" title="c">
