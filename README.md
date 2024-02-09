@@ -39,8 +39,8 @@
 
 ## Find Me On
 
-<a href="https://oil-limk.github.io/Oil-Limk/" title="my website">
-  <img alt="my website" src="https://img.shields.io/badge/My_Website-F00090?style=for-the-badge"></a>
+<!-- <a href="https://oil-limk.github.io/Oil-Limk/" title="my website">
+  <img alt="my website" src="https://img.shields.io/badge/My_Website-F00090?style=for-the-badge"></a> -->
 <a href="https://github.com/Oil-Limk" title="github">
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://gitlab.com/Oil-Limk" title="gitlab">
