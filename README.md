@@ -7,7 +7,7 @@
 ![ocaml](https://img.shields.io/badge/Ocaml-C24F1E?style=for-the-badge&logo=ocaml&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![vite](https://img.shields.io/badge/VITE-41D1FF?style=for-the-badge&logo=vite&logoColor=white)
+![vite](https://img.shields.io/badge/VITE-BD34FE?style=for-the-badge&logo=vite&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Nodejs-44883E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
