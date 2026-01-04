@@ -8,7 +8,7 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![vite](https://img.shields.io/badge/VITE-E34F26?style=for-the-badge&logo=vite&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![nodejs](https://img.shields.io/badge/Nodejs-44883E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Languages
