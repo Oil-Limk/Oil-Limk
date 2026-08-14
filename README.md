@@ -25,11 +25,3 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-ug/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OilLimk)
 [![bandcamp](https://img.shields.io/badge/Bandcamp-1DA0C3?style=for-the-badge&logo=bandcamp&logoColor=white)](https://oillimk.bandcamp.com/)
-
-## Projects
-
-[![Conlangs](https://img.shields.io/badge/Conlangs-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oil-Limk/Conlangs)
-
-## Stats
-
-[![stats](https://github-readme-stats.vercel.app/api?username=oil-limk&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
